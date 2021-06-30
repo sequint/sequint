@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven and I am based out of San Diego.
 - 👀 I’m interested in everything JavaScript/React and AI.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on simple projects in React.
+- 🌱 I’m currently learning React & Python.
+- 💞️ I love creating new ideas and am looking to collaborate.
 - 📫 How to reach me: steve.e.quint@gmail.com
 
 <!---
